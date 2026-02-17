@@ -74,6 +74,11 @@ If you want to add a new plugin to the library, check out our [design guidelines
 
 Repository reviewers, maintainers, and admins can find PR review workflows, merge rules, and CI/CD documentation in the [maintainers guide](./docs/MAINTAINERS_GUIDE.md).
 
+## Additional Resources
+
+- Introduction to AWS Agent Plugins Blog
+- Agent Plugins announcement featuring AWS
+
 ## License
 
 This project is licensed under the Apache-2.0 License.
