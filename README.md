@@ -88,7 +88,7 @@ Repository reviewers, maintainers, and admins can find PR review workflows, merg
 ## Additional Resources
 
 - Introduction to AWS Agent Plugins Blog
-- Agent Plugins announcement featuring AWS
+- [Extend Cursor with plugins ft. AWS](https://cursor.com/blog/marketplace)
 
 ## License
 
